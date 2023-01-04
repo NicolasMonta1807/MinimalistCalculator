@@ -7,3 +7,4 @@ Based on [AsmrProg](https://www.youtube.com/watch?v=sBJmRD7kNTk) and [WebDevSimp
 
 - Feel free to feedback this project
 
+[Preview](https://nicolasmonta1807.github.io/MinimalistCalculator/)
